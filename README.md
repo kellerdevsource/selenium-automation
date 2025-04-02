@@ -18,8 +18,6 @@
 2. Инсталирайте зависимостите:
 
    bash
-   Копиране
-   Редактиране
    pip install selenium
    pip install webdriver-manager
 
