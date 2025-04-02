@@ -1,1 +1,0 @@
-print("VS Code е готов за Python! 🚀")
